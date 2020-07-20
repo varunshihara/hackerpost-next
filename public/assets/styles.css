@@ -1,0 +1,23 @@
+@font-face {
+  font-family: "Hacked";
+  src: url("/assets/fonts/hacked-font/Hacked-KerX.ttf");
+}
+
+body {
+  background-color: black;
+  color: beige;
+}
+
+.title {
+    font-family: "Hacked", sans-serif;
+    font-size: 5rem;
+    margin-bottom: 0;
+}
+
+.textCenter {
+    text-align: center;
+}
+
+p {
+  font-family: monospace;
+}
