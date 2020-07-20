@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1 class="title textCenter">HACKER POST</h1>
-        <p class="textCenter">Working on something cool...coming soon.</p>
-        <p class="textCenter">YOUR IP : </p>
+        <h1 className="title textCenter">HACKER POST</h1>
+        <p className="textCenter">Working on something cool...coming soon.</p>
+        <p className="textCenter">YOUR IP : </p>
       </main>
 
       <style jsx>{`
