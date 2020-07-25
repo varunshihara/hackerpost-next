@@ -14,7 +14,12 @@ export default function Home() {
       <main>
         <h1 className="title textCenter">HACKER POST</h1>
         <p className="textCenter">Working on something cool...coming soon.</p>
-        {/* <p className="textCenter">YOUR IP : </p> */}
+        <p className="textCenter">
+          Follow me on Instagram{" "}
+          <a href="https://www.instagram.com/varunshihara" target="_blank">
+            @varunshihara
+          </a>{" "}
+        </p>
       </main>
     </div>
   );
