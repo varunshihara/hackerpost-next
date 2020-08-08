@@ -21,6 +21,8 @@ export default function Home() {
           </a>{" "}
         </p>
       </main>
+
+      <footer></footer>
     </div>
   );
 }
